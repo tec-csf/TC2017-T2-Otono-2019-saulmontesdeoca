@@ -1,4 +1,19 @@
 # TC2017 T2 Otoño 2019
+## Analisis y Diseño de Algoritmos
+### Tarea 2
 
-Plantilla del repositorio de la **Tarea 2. Análisis de algoritmos de ordenamiento**
-
+- Los algoritmos estan en el file main.cpp
+####- Algoritmos de Ordenamiento
+                
++ Bubble Sort
++ Cocktail Sort
++ Insertion Sort
++ Bucket Sort
++ Counting Sort
++ Merge Sort
++ Binary Tree Sort
++ Radix Sort
++ Shell Sort
++ Selection Sort
++ Heap Sort
++ Quick Sort
