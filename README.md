@@ -3,7 +3,7 @@
 ### Tarea 2
 
 - Los algoritmos estan en el file main.cpp
-####- Algoritmos de Ordenamiento
+#### Algoritmos de Ordenamiento
                 
 + Bubble Sort
 + Cocktail Sort
